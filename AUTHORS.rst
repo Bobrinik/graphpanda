@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Maksim Bober <audreyr@example.com>
+* Maksim Bober
 
 Contributors
 ------------
